@@ -1,0 +1,7 @@
+.clr {
+    background: linear-gradient(
+        90deg,
+        rgb(115, 162, 169) 0%,
+        rgb(82, 206, 187) 100%
+      );
+}

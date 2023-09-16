@@ -32,7 +32,7 @@ const Pokemons = () => {
       <h1>POKEMONS</h1>
       <div className="pok">
         {pokemon.map((item, index) => (
-          <div key={index} className="Pokemon">
+          <div key={index} className="pokemon">
             <p>{item.name}</p>
             <img src={item.sprites.front_default} alt="pokemon" />
           </div>
